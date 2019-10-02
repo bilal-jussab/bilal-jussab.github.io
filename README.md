@@ -1,2 +1,2 @@
 # bilal-jussab.github.io
-Google Pages
+GitHub Pages

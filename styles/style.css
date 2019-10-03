@@ -7,6 +7,7 @@ body {
   font-family: Montserrat, sans-serif !important;
   font-weight: normal;
   background-color: #ddd;
+  background: url('../images/bg.jpg')
 }
 
 #main {
@@ -36,6 +37,6 @@ body {
 }
 
 #logo {
-  width: 75%
+  width: 70%
 }
 
